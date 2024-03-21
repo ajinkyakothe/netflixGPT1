@@ -1,5 +1,5 @@
 
-This is combination project made up of **Netflix** + **GPT **
+This is combination project made up of **Netflix** + **GPT**
 The API used is of TMDB api which is used for showing the Now Playing,Trending,Popular,Upcoming movies 
 The multi language option is also made for the user.
 User can do **Sign In/ Sign** Out from the Application
