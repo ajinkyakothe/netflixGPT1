@@ -1,3 +1,27 @@
+
+This is combination project made up of **Netflix+GPT **
+The API used is of TMDB api which is used for showing the Now Playing,Trending,Popular,Upcoming movies 
+The multi language option is also made for the user.
+User can do **Sign In/ Sign** Out from the Application
+For the backend the google's **firebase** is used 
+
+Problem if you made this app:
+1.The OpenAI API is not free so I made the changes in that particular section and added button naming Trending and Upcoming Movies 
+2. You can changes the Search GPT pages and for that you have to purchase the paid plan of OpenAI 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
